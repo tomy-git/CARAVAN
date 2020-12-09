@@ -1,4 +1,4 @@
-/* リセットCSS */
+/* Reset CSS Start */
 * {
   margin: 0;
   padding: 0;
@@ -6,6 +6,7 @@
   /* 全ての文字色を変更 */
   color: #6c6b6b;
 }
+/* Reset CSS Fin */
 a {
   text-decoration: none;
 }
