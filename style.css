@@ -193,3 +193,13 @@ footer {
 .footer-text {
   color: #fff;
 }
+/* media queries */
+@media screen and (max-width: 425px) {
+  * {
+    width: 100%;
+  }
+  main {
+    display: flex;
+    flex-direction: column;
+  }
+}
